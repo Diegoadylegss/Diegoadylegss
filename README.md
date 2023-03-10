@@ -23,4 +23,6 @@ Iniciando em:
 </a>
 </p>
 
-[![Diego stats](https://github-readme-stats.vercel.app/api?Diegoadylegss=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Diego stats](https://github-readme-stats.vercel.app/api?username=Diegoadylegss)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=Diegoadylegss)
